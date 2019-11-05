@@ -1,0 +1,1 @@
+java -jar ./lib/todolist-api-0.0.1.jar -classpath config
